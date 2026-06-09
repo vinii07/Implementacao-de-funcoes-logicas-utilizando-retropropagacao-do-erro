@@ -1,1 +1,1 @@
-# Implementa-o-de-fun-es-l-gicas-utilizando-retropropaga-o-do-erro
+# Implementacao-de-funcoes-logicas-utilizando-retropropagacao-do-erro
