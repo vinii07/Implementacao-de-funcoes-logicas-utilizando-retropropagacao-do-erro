@@ -1,1 +1,0 @@
-https://github.com/vinii07/Implementacao-de-funcoes-logicas-utilizando-retropropagacao-do-erro/tree/1bb2bd3b05093a3318d2ef27092c785d2df0fc1f/Trabalho2_mlp_xor_ViniciusAmorim_Isabelle
